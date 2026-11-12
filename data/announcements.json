@@ -15,7 +15,7 @@
   },
   {
     "id": "fnbrw-info1",
-    "enabled": false,
+    "enabled": true,
     "type": "info",
     "title": "Welcome to the new FNBRW!",
     "message": "<b><u>We've changed a lot recently! </u></b>\n\nWe have a new lick of paint and a lots changed. Please note this is a beta update and some things may not work as expected. if you notice something not quite right, Please Contact a member of the dev team!",
