@@ -40,7 +40,7 @@
     "embeds": true
   },
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Down for maintenance",
     "message": "We're making some improvements and will be back shortly. Thanks for your patience!",
     "expectedBack": "",
