@@ -151,9 +151,11 @@
     "id": "GameMode_SeasonEnd_Countdown_C7TreasureHunters",
     "name": "Treasure Hunters Season & Battle Pass End",
     "status": "Chapter 7 Mini Season",
-    "endTime": "0006-12-05T08:01:15Z",
+    "endTime": "2026-12-05T08:00:00Z",
     "category": "Chapter 7",
-    "accuracy": "unconfirmed"
+    "accuracy": "unconfirmed",
+    "previousEndTime": "0006-12-05T08:01:15Z",
+    "changedAt": "2026-11-12T18:42:36Z"
   },
   {
     "id": "Crew_Subscription_Change_TierSystem",
@@ -460,5 +462,13 @@
     "endTime": "2026-12-01T18:00:00Z",
     "category": "Competitive",
     "accuracy": "confirmed"
+  },
+  {
+    "name": "Fortnite Festival - KASANE TETO",
+    "category": "Other Mode Countdowns",
+    "endTime": "2027-01-20T08:00:00Z",
+    "accuracy": "confirmed",
+    "id": "GameMode_NewSeason_Countdown_FEST_S16",
+    "info": "Season 11 of Fortnite Festival brings KASANE TETO to the stage!"
   }
 ]
