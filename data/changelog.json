@@ -1,7 +1,7 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.2",
   "enabled": true,
-  "title": "Update V3.0.1 Patchnotes",
+  "title": "Update V3.0.2 Patchnotes",
   "dismissable": true,
   "newFeatures": [
     "Fully Redesigned UI",
@@ -25,9 +25,10 @@
     "Redesigned High Contrast Mode"
   ],
   "bugFixes": [
-"Addressed Lag Issues on lower end devices"
-],
+    "Addressed Lag Issues on lower end devices"
+  ],
   "removals": [
-    "Removed Ability to tweet from website"
+    "Removed Ability to tweet from website",
+    "Disabled \"Tab Countdowns\" due to an issue"
   ]
 }
