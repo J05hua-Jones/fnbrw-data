@@ -1,19 +1,5 @@
 [
   {
-    "id": "loading-issues",
-    "enabled": false,
-    "type": "warning",
-    "title": "Loading Issues",
-    "message": "We're aware of countdown loading issues on mobile.",
-    "icon": "fa-solid fa-triangle-exclamation",
-    "dismissable": false,
-    "autoClose": false,
-    "autoCloseSeconds": 0,
-    "backgroundColor": "rgba(168, 85, 247, 0.15)",
-    "borderColor": "#a855f7",
-    "textColor": "#e2e8f0"
-  },
-  {
     "id": "announcement-3",
     "enabled": true,
     "type": "info",
