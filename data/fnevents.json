@@ -474,49 +474,67 @@
   {
     "name": "Treasure Hour Week 2 Session 1",
     "category": "Treasure Hunters",
-    "endTime": "2026-11-14T20:00:00Z",
+    "endTime": "2026-11-14T22:00:00Z",
     "accuracy": "confirmed",
     "id": "Treasure_S1_W2",
-    "info": "Treasure Hour Week 2 Session 1"
+    "info": "Treasure Hour Week 2 Session 1",
+    "startTime": "0006-11-14T20:01:15Z",
+    "previousEndTime": "2026-11-14T20:00:00Z",
+    "changedAt": "2026-11-12T19:22:46Z"
   },
   {
     "name": "Treasure Hour Week 2 Session 2",
     "category": "Treasure Hunters",
-    "endTime": "2026-11-15T02:00:00Z",
+    "endTime": "2026-11-15T04:00:00Z",
     "accuracy": "confirmed",
     "id": "1794509500685",
-    "info": "Treasure Hour Week 2 Session 2"
+    "info": "Treasure Hour Week 2 Session 2",
+    "startTime": "2026-11-15T02:00:00Z",
+    "previousEndTime": "2026-11-15T02:00:00Z",
+    "changedAt": "2026-11-12T19:23:07Z"
   },
   {
     "name": "Treasure Hour Week 3 Session 1",
     "category": "Treasure Hunters",
-    "endTime": "2026-11-21T20:00:00Z",
+    "endTime": "2026-11-21T22:00:00Z",
     "accuracy": "confirmed",
     "id": "1794509568514",
-    "info": "Treasure Hour Week 3 Session 1"
+    "info": "Treasure Hour Week 3 Session 1",
+    "startTime": "2026-11-21T20:00:00Z",
+    "previousEndTime": "2026-11-21T20:00:00Z",
+    "changedAt": "2026-11-12T19:23:28Z"
   },
   {
     "name": "Treasure Hour Week 3 Session 2",
     "category": "Treasure Hunters",
-    "endTime": "2026-11-22T02:00:00Z",
+    "endTime": "2026-11-22T04:00:00Z",
     "accuracy": "confirmed",
     "id": "1794509626450",
-    "info": "Treasure Hour Week 2 Session 1"
+    "info": "Treasure Hour Week 2 Session 1",
+    "startTime": "2026-11-22T02:00:00Z",
+    "previousEndTime": "2026-11-22T02:00:00Z",
+    "changedAt": "2026-11-12T19:23:50Z"
   },
   {
     "name": "Treasure Hour Week 4 Session 1",
     "category": "Treasure Hunters",
-    "endTime": "2026-11-28T20:00:00Z",
+    "endTime": "2026-11-28T22:00:00Z",
     "accuracy": "confirmed",
     "id": "1794509661882",
-    "info": "Treasure Hour Week 4 Session 1"
+    "info": "Treasure Hour Week 4 Session 1",
+    "startTime": "2026-11-28T20:00:00Z",
+    "previousEndTime": "2026-11-28T20:00:00Z",
+    "changedAt": "2026-11-12T19:24:11Z"
   },
   {
     "name": "Treasure Hour Week 4 Session 2",
     "category": "Treasure Hunters",
-    "endTime": "2026-11-29T02:00:00Z",
+    "endTime": "2026-11-29T04:00:00Z",
     "accuracy": "confirmed",
     "id": "1794509706284",
-    "info": "Treasure Hour Week 4 Session 2"
+    "info": "Treasure Hour Week 4 Session 2",
+    "startTime": "2026-11-29T02:00:00Z",
+    "previousEndTime": "2026-11-29T02:00:00Z",
+    "changedAt": "2026-11-12T19:24:25Z"
   }
 ]
