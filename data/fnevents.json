@@ -151,9 +151,9 @@
     "id": "GameMode_SeasonEnd_Countdown_C7TreasureHunters",
     "name": "Treasure Hunters Season & Battle Pass End",
     "status": "Chapter 7 Mini Season",
-    "endTime": "2026-12-05T00:00:00Z",
+    "endTime": "0006-12-05T08:01:15Z",
     "category": "Chapter 7",
-    "accuracy": "confirmed"
+    "accuracy": "unconfirmed"
   },
   {
     "id": "Crew_Subscription_Change_TierSystem",
@@ -183,9 +183,11 @@
     "id": "SeasonalEvent_Winterfest_Start_2026",
     "name": "Winterfest 2026",
     "status": "Seasonal Event Start",
-    "endTime": "2026-12-17T00:00:00Z",
+    "endTime": "2026-12-17T08:00:00Z",
     "category": "Seasonal Event",
-    "accuracy": "leaked"
+    "accuracy": "unconfirmed",
+    "previousEndTime": "2026-12-17T00:00:00Z",
+    "changedAt": "2026-11-12T18:35:39Z"
   },
   {
     "id": "Collab_ScottPilgrim_Skins_Leak",
