@@ -211,7 +211,7 @@
     "category": "Collab",
     "accuracy": "leaked"
   },
-{
+  {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261112_Session2Round1",
     "name": "Fortnite Performance Evaluation",
     "status": "Session 2 Round 1 · 17:00–19:00 UTC (EU)",
@@ -221,9 +221,9 @@
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261112_Session2Round2",
-    "name": "Fortnite Performance Evaluation",
+    "name": "Fortnite Performance Evaluation test",
     "status": "Session 2 Round 2 · 20:00–22:00 UTC (EU)",
-    "endTime": "2026-11-12T20:00:00Z",
+    "endTime": null,
     "category": "Competitive",
     "accuracy": "confirmed"
   },
