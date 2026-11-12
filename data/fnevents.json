@@ -458,5 +458,12 @@
     "endTime": "2026-12-01T18:00:00Z",
     "category": "Competitive",
     "accuracy": "confirmed"
+  },
+  {
+    "name": "test event",
+    "category": "Seasonal Event",
+    "endTime": null,
+    "accuracy": "confirmed",
+    "id": "1794504134352"
   }
 ]
