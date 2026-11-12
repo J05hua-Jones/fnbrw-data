@@ -10,7 +10,7 @@
     "nextUpThen": true,
     "celebration": true,
     "headerCollapse": true,
-    "statusIndicator": true,
+    "statusIndicator": false,
     "search": true,
     "categoryFilter": true,
     "sortButton": true,
