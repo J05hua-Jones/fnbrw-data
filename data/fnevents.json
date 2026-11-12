@@ -221,9 +221,9 @@
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261112_Session2Round2",
-    "name": "Fortnite Performance Evaluation test",
+    "name": "Fortnite Performance Evaluation",
     "status": "Session 2 Round 2 · 20:00–22:00 UTC (EU)",
-    "endTime": null,
+    "endTime": "2026-11-12T17:47:20Z",
     "category": "Competitive",
     "accuracy": "confirmed"
   },
@@ -458,12 +458,5 @@
     "endTime": "2026-12-01T18:00:00Z",
     "category": "Competitive",
     "accuracy": "confirmed"
-  },
-  {
-    "name": "test event",
-    "category": "Seasonal Event",
-    "endTime": null,
-    "accuracy": "confirmed",
-    "id": "1794504134352"
   }
 ]
