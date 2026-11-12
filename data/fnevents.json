@@ -470,5 +470,53 @@
     "accuracy": "confirmed",
     "id": "GameMode_NewSeason_Countdown_FEST_S16",
     "info": "Season 11 of Fortnite Festival brings KASANE TETO to the stage!"
+  },
+  {
+    "name": "Treasure Hour Week 2 Session 1",
+    "category": "Treasure Hunters",
+    "endTime": "2026-11-14T20:00:00Z",
+    "accuracy": "confirmed",
+    "id": "Treasure_S1_W2",
+    "info": "Treasure Hour Week 2 Session 1"
+  },
+  {
+    "name": "Treasure Hour Week 2 Session 2",
+    "category": "Treasure Hunters",
+    "endTime": "2026-11-15T02:00:00Z",
+    "accuracy": "confirmed",
+    "id": "1794509500685",
+    "info": "Treasure Hour Week 2 Session 2"
+  },
+  {
+    "name": "Treasure Hour Week 3 Session 1",
+    "category": "Treasure Hunters",
+    "endTime": "2026-11-21T20:00:00Z",
+    "accuracy": "confirmed",
+    "id": "1794509568514",
+    "info": "Treasure Hour Week 3 Session 1"
+  },
+  {
+    "name": "Treasure Hour Week 3 Session 2",
+    "category": "Treasure Hunters",
+    "endTime": "2026-11-22T02:00:00Z",
+    "accuracy": "confirmed",
+    "id": "1794509626450",
+    "info": "Treasure Hour Week 2 Session 1"
+  },
+  {
+    "name": "Treasure Hour Week 4 Session 1",
+    "category": "Treasure Hunters",
+    "endTime": "2026-11-28T20:00:00Z",
+    "accuracy": "confirmed",
+    "id": "1794509661882",
+    "info": "Treasure Hour Week 4 Session 1"
+  },
+  {
+    "name": "Treasure Hour Week 4 Session 2",
+    "category": "Treasure Hunters",
+    "endTime": "2026-11-29T02:00:00Z",
+    "accuracy": "confirmed",
+    "id": "1794509706284",
+    "info": "Treasure Hour Week 4 Session 2"
   }
 ]
