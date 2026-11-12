@@ -1,0 +1,33 @@
+{
+  "version": "3.0.1",
+  "enabled": true,
+  "title": "Update V3.0.1 Patchnotes",
+  "dismissable": true,
+  "newFeatures": [
+    "Fully Redesigned UI",
+    "Added Accuracy Labels to countdowns, tap one to see what it means",
+    "Added the ability to pin events",
+    "Added Next Up Section",
+    "Reworked \"More Info\" sections to add more info",
+    "Click any countdown to open its More Info",
+    "Time changes now show what it was, what it is now and the difference",
+    "Added Ability to share individual events",
+    "Added automatic countdown updating and background refreshing",
+    "Announcements now appear and disappear live",
+    "Ended events show how long ago they ended and fade out",
+    "Events with no date show \"No date known yet\"",
+    "Added Compact Mode",
+    "Smarter section layout that fills empty gaps",
+    "Redesigned Search",
+    "Redesigned OBS Mode and added previewer",
+    "Redesigned Widgets to work on other websites",
+    "Redesigned how alerts are displayed",
+    "Redesigned High Contrast Mode"
+  ],
+  "bugFixes": [
+"Addressed Lag Issues on lower end devices"
+],
+  "removals": [
+    "Removed Ability to tweet from website"
+  ]
+}
