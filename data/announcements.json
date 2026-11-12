@@ -14,16 +14,15 @@
     "textColor": "#e2e8f0"
   },
   {
-    "id": "example",
-    "enabled": false,
+    "id": "fnbrw-info1",
+    "enabled": true,
     "type": "info",
-    "title": "Example announcement",
-    "message": "Copy this block to add another announcement. Set enabled to true to show it.",
+    "title": "Welcome to the new FNBRW!",
+    "message": "We've changed a lot recently! \n\nWe have a new lick of paint and a lots changed. Please note this is a beta update and some things may not work as expected. if you notice something not quite right, Please Contact a member of the dev team!",
     "icon": "fa-bell",
-    "dismissable": true,
+    "dismissable": false,
     "autoClose": false,
     "autoCloseSeconds": 0,
-    "startDate": "2026-11-11T00:00:00Z",
-    "endDate": "2026-11-20T00:00:00Z"
+    "rememberDismissal": true
   }
 ]
