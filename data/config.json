@@ -40,14 +40,14 @@
     "embeds": true
   },
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Down for maintenance",
     "message": "We're making some improvements and will be back shortly. Thanks for your patience!",
     "expectedBack": "",
     "checkSeconds": 60
   },
   "settings": {
-    "changeNoticeHours": 24,
+    "changeNoticeHours": 30,
     "refreshMinutes": 5,
     "staleMinutes": 12
   }
