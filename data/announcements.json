@@ -24,5 +24,19 @@
     "autoClose": true,
     "autoCloseSeconds": 15,
     "rememberDismissal": true
+  },
+  {
+    "id": "announcement-3",
+    "enabled": true,
+    "type": "info",
+    "title": "Upcoming Maintenance",
+    "message": "We're conducting some maintenance today at 19:45 UK Time We Expect Maintenance to be completed by 20:15pm UK Time",
+    "icon": "fa-bell",
+    "dismissable": false,
+    "autoClose": false,
+    "autoCloseSeconds": 0,
+    "rememberDismissal": true,
+    "startDate": "2026-11-27T19:45:00Z",
+    "endDate": "2026-12-27T20:15:00Z"
   }
 ]
