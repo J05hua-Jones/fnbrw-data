@@ -76,7 +76,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-13T18:00:00Z",
     "previousEndTime": "2026-11-13T00:00:00Z",
-    "changedAt": "2026-11-13T01:08:29Z"
+    "changedAt": "2026-11-13T01:08:29Z",
+    "location": "EU"
   },
   {
     "id": "ItemShop_Vehicle_Release_VWGolfGTI",
@@ -229,7 +230,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-12T20:00:00Z",
     "previousEndTime": "2026-11-12T17:00:00Z",
-    "changedAt": "2026-11-13T01:09:42Z"
+    "changedAt": "2026-11-13T01:09:42Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261112_Session2Round2",
@@ -240,7 +242,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-12T17:00:00Z",
     "previousEndTime": "2026-11-12T17:47:20Z",
-    "changedAt": "2026-11-13T01:09:18Z"
+    "changedAt": "2026-11-13T01:09:18Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_ReloadZbDuosCashCupZeroBuild_20261113_Session1Round2",
@@ -251,7 +254,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-13T18:00:00Z",
     "previousEndTime": "2026-11-13T20:15:00Z",
-    "changedAt": "2026-11-13T11:31:45Z"
+    "changedAt": "2026-11-13T11:31:45Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_TriosCashCupBattleRoyale_20261114_Session1Round2",
@@ -262,7 +266,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-14T14:00:00Z",
     "previousEndTime": "2026-11-14T14:00:00Z",
-    "changedAt": "2026-11-13T00:49:12Z"
+    "changedAt": "2026-11-13T00:49:12Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_FncsSolosReloadHeats_20261114_Session1Round1",
@@ -273,7 +278,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-14T18:00:00Z",
     "previousEndTime": "2026-11-14T18:00:00Z",
-    "changedAt": "2026-11-13T00:51:24Z"
+    "changedAt": "2026-11-13T00:51:24Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_ReloadZbDuosCashCupZeroBuild_20261115_Session1Round3",
@@ -284,7 +290,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-15T14:00:00Z",
     "previousEndTime": "2026-11-15T14:00:00Z",
-    "changedAt": "2026-11-13T00:51:57Z"
+    "changedAt": "2026-11-13T00:51:57Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_FncsSolosReloadHeats_20261115_Session1Round2",
@@ -306,7 +313,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-16T18:00:00Z",
     "previousEndTime": "2026-11-16T18:00:00Z",
-    "changedAt": "2026-11-13T00:52:49Z"
+    "changedAt": "2026-11-13T00:52:49Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupZeroBuild_20261116_Session1Round3",
@@ -317,7 +325,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-16T18:00:00Z",
     "previousEndTime": "2026-11-16T18:00:00Z",
-    "changedAt": "2026-11-13T00:53:16Z"
+    "changedAt": "2026-11-13T00:53:16Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupBattleRoyale_20261116_Session1Round3",
@@ -328,7 +337,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-16T18:00:00Z",
     "previousEndTime": "2026-11-16T18:00:00Z",
-    "changedAt": "2026-11-13T00:55:05Z"
+    "changedAt": "2026-11-13T00:55:05Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_FncsSolosReloadLastChanceQualifier_20261117_Session1Round2",
@@ -339,7 +349,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-17T18:00:00Z",
     "previousEndTime": "2026-11-17T18:00:00Z",
-    "changedAt": "2026-11-13T00:55:43Z"
+    "changedAt": "2026-11-13T00:55:43Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_SoloRankedCupBattleRoyale_20261117_Session1Round3",
@@ -350,7 +361,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-13T18:00:00Z",
     "previousEndTime": "2026-11-17T18:00:00Z",
-    "changedAt": "2026-11-13T00:55:57Z"
+    "changedAt": "2026-11-13T00:55:57Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_SoloRankedCupZeroBuild_20261117_Session1Round3",
@@ -372,7 +384,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-19T17:00:00Z",
     "previousEndTime": "2026-11-19T17:00:00Z",
-    "changedAt": "2026-11-13T00:57:06Z"
+    "changedAt": "2026-11-13T00:57:06Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261119_Session3Round2",
@@ -383,7 +396,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-19T20:00:00Z",
     "previousEndTime": "2026-11-19T20:00:00Z",
-    "changedAt": "2026-11-13T00:57:24Z"
+    "changedAt": "2026-11-13T00:57:24Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_ReloadZbDuosCashCupZeroBuild_20261120_Session1Round4",
@@ -394,7 +408,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-20T18:00:00Z",
     "previousEndTime": "2026-11-20T18:00:00Z",
-    "changedAt": "2026-11-13T00:58:22Z"
+    "changedAt": "2026-11-13T00:58:22Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_TriosCashCupBattleRoyale_20261122_Session1Round3",
@@ -405,7 +420,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-22T12:00:00Z",
     "previousEndTime": "2026-11-22T12:00:00Z",
-    "changedAt": "2026-11-13T00:58:54Z"
+    "changedAt": "2026-11-13T00:58:54Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_FncsSolosReloadFinals_20261122_Finals",
@@ -416,7 +432,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-22T16:00:00Z",
     "previousEndTime": "2026-11-22T16:00:00Z",
-    "changedAt": "2026-11-13T00:59:18Z"
+    "changedAt": "2026-11-13T00:59:18Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupZeroBuild_20261123_Session1Round4",
@@ -449,7 +466,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-23T18:00:00Z",
     "previousEndTime": "2026-11-23T18:00:00Z",
-    "changedAt": "2026-11-13T01:00:55Z"
+    "changedAt": "2026-11-13T01:00:55Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_SquadsVictoryCupBattleRoyale_20261123_Session1Round4",
@@ -471,7 +489,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-24T18:00:00Z",
     "previousEndTime": "2026-11-24T18:00:00Z",
-    "changedAt": "2026-11-13T01:01:56Z"
+    "changedAt": "2026-11-13T01:01:56Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_SoloRankedCupBattleRoyale_20261124_Session1Round4",
@@ -482,7 +501,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-24T18:00:00Z",
     "previousEndTime": "2026-11-24T18:00:00Z",
-    "changedAt": "2026-11-13T01:04:44Z"
+    "changedAt": "2026-11-13T01:04:44Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_SoloRankedCupZeroBuild_20261124_Session1Round4",
@@ -504,7 +524,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-26T17:00:00Z",
     "previousEndTime": "2026-11-26T17:00:00Z",
-    "changedAt": "2026-11-13T01:05:43Z"
+    "changedAt": "2026-11-13T01:05:43Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261126_Session4Round2",
@@ -515,7 +536,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-26T20:00:00Z",
     "previousEndTime": "2026-11-26T20:00:00Z",
-    "changedAt": "2026-11-13T01:05:59Z"
+    "changedAt": "2026-11-13T01:05:59Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupZeroBuild_20261130_Session1Round5",
@@ -526,7 +548,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-30T18:00:00Z",
     "previousEndTime": "2026-11-30T18:00:00Z",
-    "changedAt": "2026-11-13T01:06:37Z"
+    "changedAt": "2026-11-13T01:06:37Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupBattleRoyale_20261130_Session1Round5",
@@ -537,7 +560,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-11-30T18:00:00Z",
     "previousEndTime": "2026-11-30T18:00:00Z",
-    "changedAt": "2026-11-13T01:06:53Z"
+    "changedAt": "2026-11-13T01:06:53Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_SoloRankedCupBattleRoyale_20261201_Session1Round5",
@@ -548,7 +572,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-12-01T18:00:00Z",
     "previousEndTime": "2026-12-01T18:00:00Z",
-    "changedAt": "2026-11-13T01:10:20Z"
+    "changedAt": "2026-11-13T01:10:20Z",
+    "location": "EU"
   },
   {
     "id": "Competitive_EU_SoloRankedCupZeroBuild_20261201_Session1Round5",
@@ -559,7 +584,8 @@
     "accuracy": "confirmed",
     "startTime": "2026-12-01T18:00:00Z",
     "previousEndTime": "2026-12-01T18:00:00Z",
-    "changedAt": "2026-11-13T01:10:38Z"
+    "changedAt": "2026-11-13T01:10:38Z",
+    "location": "EU"
   },
   {
     "name": "Fortnite Festival - KASANE TETO",
