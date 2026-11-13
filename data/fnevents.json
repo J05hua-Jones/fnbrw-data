@@ -246,10 +246,12 @@
     "id": "Competitive_EU_ReloadZbDuosCashCupZeroBuild_20261113_Session1Round2",
     "name": "Reload ZB Duos Cash Cup Zero Build",
     "status": "Session 1 Round 2 · 18:00–20:15 UTC (EU)",
-    "endTime": "2026-11-13T20:15:00Z",
+    "endTime": "2026-11-13T20:15:01Z",
     "category": "Competitive",
     "accuracy": "confirmed",
-    "startTime": "2026-11-13T18:00:00Z"
+    "startTime": "2026-11-13T18:00:00Z",
+    "previousEndTime": "2026-11-13T20:15:00Z",
+    "changedAt": "2026-11-13T11:31:45Z"
   },
   {
     "id": "Competitive_EU_TriosCashCupBattleRoyale_20261114_Session1Round2",
