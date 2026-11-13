@@ -41,16 +41,16 @@
   },
   "maintenance": {
     "enabled": false,
-    "title": "Down for maintenance",
+    "title": "FNBRW Is undergoing Maintenance",
     "message": "We're making some improvements and will be back shortly. Thanks for your patience!",
-    "expectedBack": "2026-11-12T20:00:00Z",
+    "expectedBack": "2026-11-20T20:15:00Z",
     "checkSeconds": 60,
-    "startsAt": "2026-11-12T19:45:00Z",
-    "endsAt": "2026-11-12T20:00:00Z"
+    "startsAt": "2026-11-20T19:45:00Z",
+    "endsAt": "2026-11-20T20:16:00Z"
   },
   "settings": {
     "changeNoticeHours": 30,
     "refreshMinutes": 5,
-    "staleMinutes": 1
+    "staleMinutes": 12
   }
 }
