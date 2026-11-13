@@ -1,5 +1,19 @@
 [
   {
+    "id": "announcement-4",
+    "enabled": true,
+    "type": "info",
+    "title": "Upcoming Maintenance",
+    "message": "We're conducting some maintenance today at 19:45 UK Time\n\nWe Expect Maintenance to be completed by 20:15pm UK Time",
+    "icon": "fa-bell",
+    "dismissable": false,
+    "autoClose": false,
+    "autoCloseSeconds": 0,
+    "rememberDismissal": true,
+    "endDate": "2026-11-20T20:15:00Z",
+    "startDate": "2026-11-20T08:00:00Z"
+  },
+  {
     "id": "fnbrw-info1",
     "enabled": true,
     "type": "info",
@@ -10,18 +24,5 @@
     "autoClose": true,
     "autoCloseSeconds": 15,
     "rememberDismissal": true
-  },
-  {
-    "id": "announcement-3",
-    "enabled": true,
-    "type": "info",
-    "title": "Upcoming Maintenance",
-    "message": "We're conducting some maintenance today at 19:45 UK Time\n\nWe Expect Maintenance to be completed by 20:15pm UK Time",
-    "icon": "fa-bell",
-    "dismissable": false,
-    "autoClose": false,
-    "autoCloseSeconds": 0,
-    "rememberDismissal": true,
-    "endDate": "2026-11-12T20:15:00Z"
   }
 ]
