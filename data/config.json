@@ -51,6 +51,6 @@
   "settings": {
     "changeNoticeHours": 30,
     "refreshMinutes": 5,
-    "staleMinutes": 12
+    "staleMinutes": 1
   }
 }
