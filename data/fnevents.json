@@ -155,13 +155,14 @@
   },
   {
     "id": "GameMode_SeasonEnd_Countdown_C7TreasureHunters",
-    "name": "Treasure Hunters Season & Battle Pass End",
+    "name": "Treasure Hunters Mini Season",
     "status": "Chapter 7 Mini Season",
     "endTime": "2026-12-05T08:00:00Z",
     "category": "Chapter 7",
-    "accuracy": "unconfirmed",
+    "accuracy": "confirmed",
     "previousEndTime": "0006-12-05T08:01:15Z",
-    "changedAt": "2026-11-12T18:42:36Z"
+    "changedAt": "2026-11-12T18:42:36Z",
+    "startTime": "2026-11-01T08:00:47Z"
   },
   {
     "id": "Crew_Subscription_Change_TierSystem",
@@ -737,9 +738,11 @@
     "id": "Reward_PirateShopToken_Window2_2027",
     "name": "Pirate Shop Token Second Activation Window Opens",
     "status": "Tokens can be activated again until end of 2027",
-    "endTime": "2027-01-01T00:00:00Z",
+    "endTime": "2027-01-01T05:00:00Z",
     "category": "Treasure Hunters",
-    "accuracy": "unconfirmed"
+    "accuracy": "confirmed",
+    "previousEndTime": "2027-01-01T00:00:00Z",
+    "changedAt": "2026-11-13T13:22:05Z"
   },
   {
     "id": "ItemShop_Leak_Nov2026_SolidGoldAsapRocky",
