@@ -650,5 +650,253 @@
     "accuracy": "confirmed",
     "id": "Loot_Weapon_Unvault_Leekcapper",
     "startTime": "2026-11-15T14:00:00Z"
+  },
+  {
+    "id": "Collab_Vocaloid_ItemShop_KasaneTeto",
+    "name": "Kasane Teto Skin",
+    "status": "Item Shop Release",
+    "endTime": "2026-11-14T00:00:00Z",
+    "category": "Item Shop",
+    "accuracy": "confirmed"
+  },
+  {
+    "id": "ItemShop_Bundle_Release_FrozenLegendsPack",
+    "name": "Frozen Legends Pack",
+    "status": "Item Shop Release",
+    "endTime": "2026-11-16T00:00:00Z",
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "Quest_CaptainX_Unlock_Outfit",
+    "name": "Captain X Outfit Unlockable",
+    "status": "Complete 24 weekly quests (Battle Pass required)",
+    "endTime": "2026-11-21T00:00:00Z",
+    "category": "Treasure Hunters",
+    "accuracy": "unconfirmed"
+  },
+  {
+    "id": "GameUpdate_Patch_v44_10",
+    "name": "Update v44.10",
+    "status": "Game Update",
+    "endTime": "2026-12-17T09:00:00Z",
+    "category": "Game Updates",
+    "accuracy": "confirmed"
+  },
+  {
+    "id": "ItemShop_Leaving_OnePieceBundle",
+    "name": "One Piece Bundle Leaves Item Shop",
+    "status": "Last chance to buy",
+    "endTime": "2026-12-05T23:59:00Z",
+    "category": "Item Shop",
+    "accuracy": "unconfirmed"
+  },
+  {
+    "id": "ItemShop_Leaving_StrawHatsBundle",
+    "name": "Straw Hats Bundle (Zoro, Sanji, Chopper) Leaves Item Shop",
+    "status": "Last chance to buy",
+    "endTime": "2026-12-05T00:00:00Z",
+    "category": "Item Shop",
+    "accuracy": "unconfirmed"
+  },
+  {
+    "id": "ItemShop_Vehicle_Release_MercedesG63",
+    "name": "Mercedes-AMG G 63 Car Body",
+    "status": "Item Shop Release",
+    "endTime": "2026-12-05T00:00:00Z",
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "Reward_PirateShopToken_Window2_2027",
+    "name": "Pirate Shop Token Second Activation Window Opens",
+    "status": "Tokens can be activated again until end of 2027",
+    "endTime": "2027-01-01T00:00:00Z",
+    "category": "Treasure Hunters",
+    "accuracy": "unconfirmed"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_SolidGoldAsapRocky",
+    "name": "Solid Gold A$AP Rocky Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_SolidGoldLilUziVert",
+    "name": "Solid Gold Lil Uzi Vert Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_PrivateerOscar",
+    "name": "Privateer Oscar Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_MetalSonic",
+    "name": "Metal Sonic Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_Reanimal",
+    "name": "Reanimal Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_KenKarson",
+    "name": "Ken Karson Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_LeagueOfLegends",
+    "name": "League of Legends Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_TheExorcist",
+    "name": "The Exorcist Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_EliteKadoThorne",
+    "name": "Elite Kado Thorne Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_NullSkin",
+    "name": "Null Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_ForswornTrooper",
+    "name": "Forsworn Trooper Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_NetProtector",
+    "name": "Net Protector Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_NightLotus",
+    "name": "Night Lotus Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_RebloomedNightRose",
+    "name": "Rebloomed Night Rose Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_LcpRogue",
+    "name": "LCP Rogue Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_NBA",
+    "name": "NBA Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_TheSimpsons",
+    "name": "The Simpsons Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_FantasticFour",
+    "name": "Fantastic Four Skin",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_MagnusSidekick",
+    "name": "Magnus Sidekick",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_DodgerSidekick",
+    "name": "Dodger Sidekick",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_CrystallizedPunisherPickaxe",
+    "name": "Crystallized Punisher Pickaxe",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_VulcanCarBody",
+    "name": "Vulcan Car Body",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
+  },
+  {
+    "id": "ItemShop_Leak_Nov2026_Porsche911TurboRLE",
+    "name": "Porsche 911 Turbo RLE Car Body",
+    "status": "Leaked for November (no exact date)",
+    "endTime": null,
+    "category": "Item Shop",
+    "accuracy": "leaked"
   }
 ]
