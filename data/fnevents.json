@@ -138,17 +138,19 @@
     "id": "Loot_Weapon_Unvault_LeverActionShotgun",
     "name": "Lever Action Shotgun",
     "status": "Joins loot pool later this season",
-    "endTime": null,
-    "category": "Treasure Hunters",
-    "accuracy": "confirmed"
+    "endTime": "2026-12-05T08:00:00Z",
+    "category": "Loot Pool",
+    "accuracy": "confirmed",
+    "startTime": "2026-11-12T09:00:00Z"
   },
   {
     "id": "Loot_Weapon_Unvault_FlapjackRifle",
     "name": "Flapjack Rifle",
     "status": "Joins loot pool later this season",
-    "endTime": null,
-    "category": "Treasure Hunters",
-    "accuracy": "confirmed"
+    "endTime": "2026-12-05T08:00:00Z",
+    "category": "Loot Pool",
+    "accuracy": "confirmed",
+    "startTime": "2026-11-15T14:00:00Z"
   },
   {
     "id": "GameMode_SeasonEnd_Countdown_C7TreasureHunters",
@@ -630,5 +632,21 @@
     "startTime": "2026-11-29T02:00:00Z",
     "previousEndTime": "2026-11-29T02:00:00Z",
     "changedAt": "2026-11-12T19:24:25Z"
+  },
+  {
+    "name": "Super Flint-Lock Pistol",
+    "category": "Loot Pool",
+    "endTime": "2026-12-05T08:00:00Z",
+    "accuracy": "confirmed",
+    "id": "Loot_Weapon_Unvault_SuperFlintKnockPistol",
+    "startTime": "2026-11-12T09:00:00Z"
+  },
+  {
+    "name": "Leekcapper",
+    "category": "Loot Pool",
+    "endTime": "2026-12-05T08:00:00Z",
+    "accuracy": "confirmed",
+    "id": "Loot_Weapon_Unvault_Leekcapper",
+    "startTime": "2026-11-15T14:00:00Z"
   }
 ]
