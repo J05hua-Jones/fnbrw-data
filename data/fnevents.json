@@ -71,9 +71,12 @@
     "id": "Competitive_OnePiece_Cup_Buggy",
     "name": "One Piece Buggy Cup",
     "status": "Competitive Cup",
-    "endTime": "2026-11-13T00:00:00Z",
+    "endTime": "2026-11-13T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-13T18:00:00Z",
+    "previousEndTime": "2026-11-13T00:00:00Z",
+    "changedAt": "2026-11-13T01:08:29Z"
   },
   {
     "id": "ItemShop_Vehicle_Release_VWGolfGTI",
@@ -219,249 +222,340 @@
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261112_Session2Round1",
     "name": "Fortnite Performance Evaluation",
     "status": "Session 2 Round 1 · 17:00–19:00 UTC (EU)",
-    "endTime": "2026-11-12T17:00:00Z",
+    "endTime": "2026-11-12T22:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-12T20:00:00Z",
+    "previousEndTime": "2026-11-12T17:00:00Z",
+    "changedAt": "2026-11-13T01:09:42Z"
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261112_Session2Round2",
     "name": "Fortnite Performance Evaluation",
     "status": "Session 2 Round 2 · 20:00–22:00 UTC (EU)",
-    "endTime": "2026-11-12T17:47:20Z",
+    "endTime": "2026-11-12T19:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-12T17:00:00Z",
+    "previousEndTime": "2026-11-12T17:47:20Z",
+    "changedAt": "2026-11-13T01:09:18Z"
   },
   {
     "id": "Competitive_EU_ReloadZbDuosCashCupZeroBuild_20261113_Session1Round2",
     "name": "Reload ZB Duos Cash Cup Zero Build",
     "status": "Session 1 Round 2 · 18:00–20:15 UTC (EU)",
-    "endTime": "2026-11-13T18:00:00Z",
+    "endTime": "2026-11-13T20:15:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-13T18:00:00Z"
   },
   {
     "id": "Competitive_EU_TriosCashCupBattleRoyale_20261114_Session1Round2",
     "name": "Trios Cash Cup Battle Royale",
     "status": "Session 1 Round 2 · 14:00–17:00 UTC (EU)",
-    "endTime": "2026-11-14T14:00:00Z",
+    "endTime": "2026-11-14T17:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-14T14:00:00Z",
+    "previousEndTime": "2026-11-14T14:00:00Z",
+    "changedAt": "2026-11-13T00:49:12Z"
   },
   {
     "id": "Competitive_EU_FncsSolosReloadHeats_20261114_Session1Round1",
     "name": "FNCS Solos Reload Heats",
     "status": "Session 1 Round 1 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-14T18:00:00Z",
+    "endTime": "2026-11-14T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-14T18:00:00Z",
+    "previousEndTime": "2026-11-14T18:00:00Z",
+    "changedAt": "2026-11-13T00:51:24Z"
   },
   {
     "id": "Competitive_EU_ReloadZbDuosCashCupZeroBuild_20261115_Session1Round3",
     "name": "Reload ZB Duos Cash Cup Zero Build",
     "status": "Session 1 Round 3 · 14:00–16:30 UTC (EU)",
-    "endTime": "2026-11-15T14:00:00Z",
+    "endTime": "2026-11-15T16:30:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-15T14:00:00Z",
+    "previousEndTime": "2026-11-15T14:00:00Z",
+    "changedAt": "2026-11-13T00:51:57Z"
   },
   {
     "id": "Competitive_EU_FncsSolosReloadHeats_20261115_Session1Round2",
     "name": "FNCS Solos Reload Heats",
     "status": "Session 1 Round 2 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-15T18:00:00Z",
+    "endTime": "2026-11-15T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-15T18:00:00Z",
+    "previousEndTime": "2026-11-15T18:00:00Z",
+    "changedAt": "2026-11-13T00:52:18Z"
   },
   {
     "id": "Competitive_EU_FncsSolosReloadLastChanceQualifier_20261116_Session1Round1",
     "name": "FNCS Solos Reload Last Chance Qualifier",
     "status": "Session 1 Round 1 · 18:00–20:30 UTC (EU)",
-    "endTime": "2026-11-16T18:00:00Z",
+    "endTime": "2026-11-16T20:30:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-16T18:00:00Z",
+    "previousEndTime": "2026-11-16T18:00:00Z",
+    "changedAt": "2026-11-13T00:52:49Z"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupZeroBuild_20261116_Session1Round3",
     "name": "Duos Reload Ranked Cup Zero Build",
     "status": "Session 1 Round 3 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-16T18:00:00Z",
+    "endTime": "2026-11-16T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-16T18:00:00Z",
+    "previousEndTime": "2026-11-16T18:00:00Z",
+    "changedAt": "2026-11-13T00:53:16Z"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupBattleRoyale_20261116_Session1Round3",
     "name": "Duos Reload Ranked Cup Battle Royale",
     "status": "Session 1 Round 3 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-16T18:00:00Z",
+    "endTime": "2026-11-16T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-16T18:00:00Z",
+    "previousEndTime": "2026-11-16T18:00:00Z",
+    "changedAt": "2026-11-13T00:55:05Z"
   },
   {
     "id": "Competitive_EU_FncsSolosReloadLastChanceQualifier_20261117_Session1Round2",
     "name": "FNCS Solos Reload Last Chance Qualifier",
     "status": "Session 1 Round 2 · 18:00–20:00 UTC (EU)",
-    "endTime": "2026-11-17T18:00:00Z",
+    "endTime": "2026-11-17T20:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-17T18:00:00Z",
+    "previousEndTime": "2026-11-17T18:00:00Z",
+    "changedAt": "2026-11-13T00:55:43Z"
   },
   {
     "id": "Competitive_EU_SoloRankedCupBattleRoyale_20261117_Session1Round3",
     "name": "Solo Ranked Cup Battle Royale",
     "status": "Session 1 Round 3 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-17T18:00:00Z",
+    "endTime": "2026-11-17T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-13T18:00:00Z",
+    "previousEndTime": "2026-11-17T18:00:00Z",
+    "changedAt": "2026-11-13T00:55:57Z"
   },
   {
     "id": "Competitive_EU_SoloRankedCupZeroBuild_20261117_Session1Round3",
     "name": "Solo Ranked Cup Zero Build",
     "status": "Session 1 Round 3 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-17T18:00:00Z",
+    "endTime": "2026-11-17T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-17T18:00:00Z",
+    "previousEndTime": "2026-11-17T18:00:00Z",
+    "changedAt": "2026-11-13T00:56:16Z"
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261119_Session3Round1",
     "name": "Fortnite Performance Evaluation",
     "status": "Session 3 Round 1 · 17:00–19:00 UTC (EU)",
-    "endTime": "2026-11-19T17:00:00Z",
+    "endTime": "2026-11-19T19:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-19T17:00:00Z",
+    "previousEndTime": "2026-11-19T17:00:00Z",
+    "changedAt": "2026-11-13T00:57:06Z"
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261119_Session3Round2",
     "name": "Fortnite Performance Evaluation",
     "status": "Session 3 Round 2 · 20:00–22:00 UTC (EU)",
-    "endTime": "2026-11-19T20:00:00Z",
+    "endTime": "2026-11-19T22:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-19T20:00:00Z",
+    "previousEndTime": "2026-11-19T20:00:00Z",
+    "changedAt": "2026-11-13T00:57:24Z"
   },
   {
     "id": "Competitive_EU_ReloadZbDuosCashCupZeroBuild_20261120_Session1Round4",
     "name": "Reload ZB Duos Cash Cup Zero Build",
     "status": "Session 1 Round 4 · 18:00–20:15 UTC (EU)",
-    "endTime": "2026-11-20T18:00:00Z",
+    "endTime": "2026-11-20T20:15:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-20T18:00:00Z",
+    "previousEndTime": "2026-11-20T18:00:00Z",
+    "changedAt": "2026-11-13T00:58:22Z"
   },
   {
     "id": "Competitive_EU_TriosCashCupBattleRoyale_20261122_Session1Round3",
     "name": "Trios Cash Cup Battle Royale",
     "status": "Session 1 Round 3 · 12:00–15:00 UTC (EU)",
-    "endTime": "2026-11-22T12:00:00Z",
+    "endTime": "2026-11-22T15:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-22T12:00:00Z",
+    "previousEndTime": "2026-11-22T12:00:00Z",
+    "changedAt": "2026-11-13T00:58:54Z"
   },
   {
     "id": "Competitive_EU_FncsSolosReloadFinals_20261122_Finals",
     "name": "FNCS Solos Reload Finals",
     "status": "Finals · 16:00–20:00 UTC (EU)",
-    "endTime": "2026-11-22T16:00:00Z",
+    "endTime": "2026-11-22T20:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-22T16:00:00Z",
+    "previousEndTime": "2026-11-22T16:00:00Z",
+    "changedAt": "2026-11-13T00:59:18Z"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupZeroBuild_20261123_Session1Round4",
     "name": "Duos Reload Ranked Cup Zero Build",
     "status": "Session 1 Round 4 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-23T18:00:00Z",
+    "endTime": "2026-11-23T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-23T18:00:00Z",
+    "previousEndTime": "2026-11-23T18:00:00Z",
+    "changedAt": "2026-11-13T00:59:56Z"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupBattleRoyale_20261123_Session1Round4",
     "name": "Duos Reload Ranked Cup Battle Royale",
     "status": "Session 1 Round 4 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-23T18:00:00Z",
+    "endTime": "2026-11-23T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-23T18:00:00Z",
+    "previousEndTime": "2026-11-23T18:00:00Z",
+    "changedAt": "2026-11-13T01:00:10Z"
   },
   {
     "id": "Competitive_EU_SquadsVictoryCupBattleRoyale_20261123_Session1Round3",
     "name": "Squads Victory Cup Battle Royale",
     "status": "Session 1 Round 3 · 18:00–20:00 UTC (EU)",
-    "endTime": "2026-11-23T18:00:00Z",
+    "endTime": "2026-11-23T20:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-23T18:00:00Z",
+    "previousEndTime": "2026-11-23T18:00:00Z",
+    "changedAt": "2026-11-13T01:00:55Z"
   },
   {
     "id": "Competitive_EU_SquadsVictoryCupBattleRoyale_20261123_Session1Round4",
     "name": "Squads Victory Cup Battle Royale",
     "status": "Session 1 Round 4 · 21:00–22:00 UTC (EU)",
-    "endTime": "2026-11-23T21:00:00Z",
+    "endTime": "2026-11-23T22:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-23T21:00:00Z",
+    "previousEndTime": "2026-11-23T21:00:00Z",
+    "changedAt": "2026-11-13T01:01:13Z"
   },
   {
     "id": "Competitive_EU_ArenasCashCup_20261124_Session1Round2",
     "name": "Arenas Cash Cup",
     "status": "Session 1 Round 2 · 18:00–20:00 UTC (EU)",
-    "endTime": "2026-11-24T18:00:00Z",
+    "endTime": "2026-11-24T20:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-24T18:00:00Z",
+    "previousEndTime": "2026-11-24T18:00:00Z",
+    "changedAt": "2026-11-13T01:01:56Z"
   },
   {
     "id": "Competitive_EU_SoloRankedCupBattleRoyale_20261124_Session1Round4",
     "name": "Solo Ranked Cup Battle Royale",
     "status": "Session 1 Round 4 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-24T18:00:00Z",
+    "endTime": "2026-11-24T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-24T18:00:00Z",
+    "previousEndTime": "2026-11-24T18:00:00Z",
+    "changedAt": "2026-11-13T01:04:44Z"
   },
   {
     "id": "Competitive_EU_SoloRankedCupZeroBuild_20261124_Session1Round4",
     "name": "Solo Ranked Cup Zero Build",
     "status": "Session 1 Round 4 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-24T18:00:00Z",
+    "endTime": "2026-11-24T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-24T18:00:00Z",
+    "previousEndTime": "2026-11-24T18:00:00Z",
+    "changedAt": "2026-11-13T01:05:03Z"
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261126_Session4Round1",
     "name": "Fortnite Performance Evaluation",
     "status": "Session 4 Round 1 · 17:00–19:00 UTC (EU)",
-    "endTime": "2026-11-26T17:00:00Z",
+    "endTime": "2026-11-26T19:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-26T17:00:00Z",
+    "previousEndTime": "2026-11-26T17:00:00Z",
+    "changedAt": "2026-11-13T01:05:43Z"
   },
   {
     "id": "Competitive_EU_FortnitePerformanceEvaluation_20261126_Session4Round2",
     "name": "Fortnite Performance Evaluation",
     "status": "Session 4 Round 2 · 20:00–22:00 UTC (EU)",
-    "endTime": "2026-11-26T20:00:00Z",
+    "endTime": "2026-11-26T22:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-26T20:00:00Z",
+    "previousEndTime": "2026-11-26T20:00:00Z",
+    "changedAt": "2026-11-13T01:05:59Z"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupZeroBuild_20261130_Session1Round5",
     "name": "Duos Reload Ranked Cup Zero Build",
     "status": "Session 1 Round 5 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-30T18:00:00Z",
+    "endTime": "2026-11-30T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-30T18:00:00Z",
+    "previousEndTime": "2026-11-30T18:00:00Z",
+    "changedAt": "2026-11-13T01:06:37Z"
   },
   {
     "id": "Competitive_EU_DuosReloadRankedCupBattleRoyale_20261130_Session1Round5",
     "name": "Duos Reload Ranked Cup Battle Royale",
     "status": "Session 1 Round 5 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-11-30T18:00:00Z",
+    "endTime": "2026-11-30T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-11-30T18:00:00Z",
+    "previousEndTime": "2026-11-30T18:00:00Z",
+    "changedAt": "2026-11-13T01:06:53Z"
   },
   {
     "id": "Competitive_EU_SoloRankedCupBattleRoyale_20261201_Session1Round5",
     "name": "Solo Ranked Cup Battle Royale",
     "status": "Session 1 Round 5 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-12-01T18:00:00Z",
+    "endTime": "2026-12-01T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-12-01T18:00:00Z",
+    "previousEndTime": "2026-12-01T18:00:00Z",
+    "changedAt": "2026-11-13T01:10:20Z"
   },
   {
     "id": "Competitive_EU_SoloRankedCupZeroBuild_20261201_Session1Round5",
     "name": "Solo Ranked Cup Zero Build",
     "status": "Session 1 Round 5 · 18:00–21:00 UTC (EU)",
-    "endTime": "2026-12-01T18:00:00Z",
+    "endTime": "2026-12-01T21:00:00Z",
     "category": "Competitive",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "startTime": "2026-12-01T18:00:00Z",
+    "previousEndTime": "2026-12-01T18:00:00Z",
+    "changedAt": "2026-11-13T01:10:38Z"
   },
   {
     "name": "Fortnite Festival - KASANE TETO",
