@@ -25,7 +25,8 @@
     "Redesigned High Contrast Mode"
   ],
   "bugFixes": [
-    "Addressed Lag Issues on lower end devices"
+    "Addressed Lag Issues on lower end devices",
+    "Allowed Site to load faster on mobile by reducing data refreshes to one a minute instead of 30 seconds"
   ],
   "removals": [
     "Removed Ability to tweet from website",
