@@ -109,7 +109,8 @@
     "status": "Item Shop Return",
     "endTime": "2026-11-16T00:00:00Z",
     "category": "Item Shop",
-    "accuracy": "leaked"
+    "accuracy": "leaked",
+    "info": "Something into the more info text box"
   },
   {
     "id": "Event_CaptainsDay_Week4_Oscar",
@@ -295,7 +296,7 @@
     "location": "EU"
   },
   {
-    "id": "Competitive_EU_FncsSolosReloadHeats_20261115_Session1Round2",
+    "id": "Competitive_EU_FncsSolosReloadHeats_2026-11-15_Session1Round2",
     "name": "FNCS Solos Reload Heats",
     "status": "Session 1 Round 2 · 18:00–21:00 UTC (EU)",
     "endTime": "2026-11-15T21:00:00Z",
