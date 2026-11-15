@@ -1,0 +1,46 @@
+[
+  {
+    "id": "smwic4zuzwte",
+    "at": "2026-11-15T22:20:00Z",
+    "label": "test",
+    "createdBy": "J05hua-Jones",
+    "createdAt": "2026-11-15T21:17:04Z",
+    "files": {
+      "fnevents.json": {
+        "t": "list",
+        "ops": [
+          {
+            "o": "add",
+            "key": "id:1794777376135",
+            "item": {
+              "name": "test",
+              "category": "test",
+              "endTime": null,
+              "accuracy": "leaked",
+              "id": "1794777376135",
+              "draft": true
+            },
+            "after": "id:ItemShop_Leak_Nov2026_Porsche911TurboRLE"
+          }
+        ],
+        "order": null
+      },
+      "config.json": {
+        "t": "obj",
+        "set": {
+          "settings": {
+            "t": "obj",
+            "set": {
+              "archiveAfterDays": {
+                "t": "replace",
+                "v": 30
+              }
+            },
+            "del": []
+          }
+        },
+        "del": []
+      }
+    }
+  }
+]
