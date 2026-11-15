@@ -1,0 +1,34 @@
+name: FNBRW scheduled publishing
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fnbrw-scheduled
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      DATA_DIR: "data"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: "main"
+      - name: Apply anything that is due
+        run: node .github/scripts/fnbrw-schedule-runner.js
+      - name: Save the result
+        run: |
+          if [ -n "$(git status --porcelain -- "$DATA_DIR")" ]; then
+            git config user.name "fnbrw-scheduler"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A -- "$DATA_DIR"
+            git commit -m "$(cat "$RUNNER_TEMP/fnbrw-message.txt")"
+            git push
+          fi
