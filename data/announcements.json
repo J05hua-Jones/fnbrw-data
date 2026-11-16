@@ -41,7 +41,7 @@
   },
   {
     "id": "Notice-Downtime-1",
-    "enabled": true,
+    "enabled": false,
     "type": "info",
     "title": "Unexpected Downtime",
     "message": "We're sorry about the current unexpected downtime, we're looking into the problem and will release an update when we have more information.\n\nThankyou",
@@ -51,5 +51,17 @@
     "autoCloseSeconds": 0,
     "rememberDismissal": true,
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurjphuac0ULZgDvUexBacpVWgljUtrV0b9ZlOpnyFBcaLwecWM2QzK8nn&s=10"
+  },
+  {
+    "id": "service_announcement1",
+    "enabled": true,
+    "type": "info",
+    "title": "We're back!",
+    "message": "Thankyou for your patience today while we addressed an issue that prevented us from bringing the site online after a scheduled feature drop.\n\nWe're back now!",
+    "icon": "fa-bell",
+    "dismissable": true,
+    "autoClose": false,
+    "autoCloseSeconds": 0,
+    "rememberDismissal": true
   }
 ]
