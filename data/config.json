@@ -37,16 +37,17 @@
     "rememberFilters": true,
     "autoRefresh": true,
     "obsOverlay": true,
-    "embeds": true
+    "embeds": true,
+    "calendarExport": true
   },
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "FNBRW Is undergoing Maintenance",
     "message": "We're making some improvements and will be back shortly. Thanks for your patience!",
-    "expectedBack": "2026-11-20T20:15:00Z",
+    "expectedBack": "2026-11-16T23:15:00Z",
     "checkSeconds": 60,
-    "startsAt": "2026-11-20T19:44:00Z",
-    "endsAt": "2026-11-20T20:16:00Z"
+    "endsAt": "2026-11-20T23:16:00Z",
+    "startsAt": "2026-11-16T15:32:00Z"
   },
   "settings": {
     "changeNoticeHours": 30,
