@@ -38,5 +38,18 @@
     "autoClose": true,
     "autoCloseSeconds": 15,
     "rememberDismissal": true
+  },
+  {
+    "id": "Notice-Downtime-1",
+    "enabled": true,
+    "type": "info",
+    "title": "Unexpected Downtime",
+    "message": "We're sorry about the current unexpected downtime, we're looking into the problem and will release an update when we have more information.\n\nThankyou",
+    "icon": "fa-wrench",
+    "dismissable": false,
+    "autoClose": false,
+    "autoCloseSeconds": 0,
+    "rememberDismissal": true,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurjphuac0ULZgDvUexBacpVWgljUtrV0b9ZlOpnyFBcaLwecWM2QzK8nn&s=10"
   }
 ]
