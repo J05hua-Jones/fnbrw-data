@@ -53,5 +53,21 @@
     "changeNoticeHours": 30,
     "refreshMinutes": 5,
     "staleMinutes": 12
+  },
+  "background": {
+    "normal": {
+      "top": "#c2553a",
+      "middle": "#5a1f3d",
+      "bottom": "#1e0b1f",
+      "glow": "#f08a4b",
+      "angle": 165
+    },
+    "dark": {
+      "top": "#783524",
+      "middle": "#361325",
+      "bottom": "#0f0610",
+      "glow": "#95562f",
+      "angle": 165
+    }
   }
 }
