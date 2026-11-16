@@ -41,7 +41,7 @@
     "calendarExport": true
   },
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "FNBRW Is undergoing Maintenance",
     "message": "We're sorry about the current unexpected downtime, we're looking into the problem and will release an update when we have more information.",
     "expectedBack": "2026-11-16T20:15:00Z",
