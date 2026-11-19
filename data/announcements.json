@@ -54,7 +54,7 @@
   },
   {
     "id": "service_announcement1",
-    "enabled": true,
+    "enabled": false,
     "type": "info",
     "title": "We're back!",
     "message": "Thankyou for your patience today while we addressed an issue that prevented us from bringing the site online after a scheduled feature drop.\n\nWe're back now!",
