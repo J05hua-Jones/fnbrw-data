@@ -180,7 +180,8 @@
     "status": "Last day to activate (or from Jan 1, 2027)",
     "endTime": "2026-12-15T00:00:00Z",
     "category": "Treasure Hunters",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "image": "images/pirate-shop-token-activation-deadline-ebf50f99.jpg"
   },
   {
     "id": "SeasonalEvent_Winterfest_Start_2026",
@@ -736,7 +737,8 @@
     "category": "Treasure Hunters",
     "accuracy": "confirmed",
     "previousEndTime": "2027-01-01T00:00:00Z",
-    "changedAt": "2026-11-13T13:22:05Z"
+    "changedAt": "2026-11-13T13:22:05Z",
+    "image": "images/pirate-shop-token-second-activation-wind-e631e65d.jpg"
   },
   {
     "id": "ItemShop_Leak_Nov2026_SolidGoldAsapRocky",
