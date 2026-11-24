@@ -126,7 +126,8 @@
     "status": "Every Saturday until December 4",
     "endTime": "2026-12-04T20:00:00Z",
     "category": "Treasure Hunters",
-    "accuracy": "confirmed"
+    "accuracy": "confirmed",
+    "image": "images/weekly-treasure-hours-69aeef9f.jpg"
   },
   {
     "id": "Loot_Weapon_Unvault_LeverActionShotgun",
